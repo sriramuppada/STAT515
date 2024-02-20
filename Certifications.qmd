@@ -1,6 +1,0 @@
----
-title: "Certifications"
-format: html
----
-
-Will update soon!
