@@ -1,0 +1,13 @@
+---
+title: "Interships"
+editor: visual
+format: html
+toc: false
+about:
+ template: trestles
+ image-shape: round
+ image-width:  20cm
+chunk_output_type: inline
+---
+
+Will update soon!
