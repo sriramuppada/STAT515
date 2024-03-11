@@ -1,0 +1,15 @@
+---
+title: "Mid Project Representations"
+editor: visual
+format: html
+toc: false
+about:
+ template: trestles
+ image-shape: round
+ image-width:  20cm
+chunk_output_type: inline
+---
+
+## 
+
+[Link to PDF](R_mid.pdf)
