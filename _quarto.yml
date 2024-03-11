@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Myself.qmd
+      - Certifications.qmd
+      - Internships.qmd
+      - Mid Project Codes.qmd
+      - Mid Project Representations.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    page-layout: full
+    toc: true
+    
+
+editor: visual
+
